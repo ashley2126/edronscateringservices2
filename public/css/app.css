@@ -1,0 +1,32 @@
+body{
+
+}
+
+.green{
+    color:#5cb85c;
+}
+
+
+table th.edit,th.delete,th.checkall,th.center{
+    text-align: center;
+}
+
+table td.edit p,td.delete p{
+    margin: 0;
+}
+
+table td.edit,td.delete,td.check,td.center{
+    text-align: center;
+}
+
+table th.right,td.right{
+    text-align: right;
+}
+
+div.edit-tabs{
+    margin:80px 0 80px 25px;
+}
+
+div.tab-content > div.tab-pane > div.package_courses{
+    margin-top:50px;
+}
